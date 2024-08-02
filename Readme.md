@@ -1,15 +1,11 @@
 # 🛒 이커머스 프로젝트 🛒
 
----
-
 ## ✔️ 목차
 - [프로젝트 개요](#✔️-프로젝트-개요)
 - [내가 구현한 기능](#✔️-내가-구현한-기능)
 - [협업](#✔️-협업)
 - [개발 문서](#✔️-개발-문서)
 - [시연 영상](#✔️-시연-영상)
-
----
 
 ## ✔️ 프로젝트 개요
 - `설명`: 이커머스 사이트 'SSG' 리빌딩 프로젝트
@@ -31,14 +27,13 @@
   <img src="https://github.com/user-attachments/assets/33d42db7-a56a-48dc-85e3-88a1132e3bc5" width=290 height=500 />
   <img src="https://github.com/user-attachments/assets/39deaefa-0bce-4659-a174-1d51d4d5c25c" width=290 height=500 />
 </p>
-
----
+<br>
 
 ## ✔️ 내가 구현한 기능
 
 - `담당 역할`: 일반 / 소셜 회원가입 및 로그인, 카카오페이 결제, 배송지, 장바구니, 공통 응답 형식 및 커스텀 에러 처리 구축
+<br>
 
----
 ## ✔️ 협업
 <table>
   <tr>
@@ -60,7 +55,7 @@
 </table>
 <br>
 
----
+
 ## ✔️ 개발 문서
 - [이벤트 스토밍](https://github.com/user-attachments/files/16467749/default.pdf)
 - [화면 설계서](https://github.com/user-attachments/files/16467829/-.pdf)
@@ -69,9 +64,8 @@
 - [API 정의서](https://github.com/user-attachments/files/16467764/API.pdf)
 - [아키텍처 구조도](https://github.com/user-attachments/files/16467818/-.pdf)
 - [파일 구조](https://github.com/user-attachments/files/16467836/-.pdf)
+<br>
 
-
----
 ## ✔️ 시연 영상
 https://github.com/user-attachments/assets/0c5572ca-4dc5-4ec5-89f1-4876983816b4
 
