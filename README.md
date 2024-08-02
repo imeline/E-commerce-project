@@ -57,13 +57,51 @@
 
 
 ## ✔️ 개발 문서
-- [이벤트 스토밍](https://github.com/user-attachments/files/16467749/default.pdf)
-- [화면 설계서](https://github.com/user-attachments/files/16467829/-.pdf)
-- [ERD 설계서](https://github.com/user-attachments/files/16467756/DB.pdf)
-- [요구사항 정의서](https://github.com/user-attachments/files/16467725/default.pdf)
-- [API 정의서](https://github.com/user-attachments/files/16467764/API.pdf)
-- [아키텍처 구조도](https://github.com/user-attachments/files/16467818/-.pdf)
-- [파일 구조](https://github.com/user-attachments/files/16467836/-.pdf)
+🔎 자세히 보려면 사진 클릭 🔎
+<details>
+<summary>
+  이벤트 스토밍
+</summary>
+   <img src="https://github.com/user-attachments/assets/ce78c885-b6e3-4857-9b0b-a13f20d43c31" width="700" height="400">
+</details>
+
+<details>
+<summary>
+  화면 설계서
+</summary>
+  <img src="https://github.com/user-attachments/assets/ca027e30-3295-41fc-9f1a-27eb466fb8bb"  width="700" height="600">
+</details>
+
+<details>
+<summary>
+  요구사항 정의서
+</summary>
+  <img src="https://github.com/user-attachments/assets/71a40d9a-cea4-434f-97ed-a17ed2b8a512" width="700" height="400">
+  <img src="https://github.com/user-attachments/assets/12c1bfd7-b689-4a4c-aa9f-1a77b13d6a4b" width="700" height="400">
+</details>
+
+<details>
+<summary>
+  ERD 설계서
+</summary>
+  <img src="https://github.com/user-attachments/assets/2537eb66-425b-4976-b3d3-af9b1a89e69b" width="700" height="400">
+</details>
+
+<details>
+<summary>
+  아키텍처 구조도
+</summary>
+  <img src="https://github.com/user-attachments/assets/aa7f65e6-283d-444d-a438-98095a1a6409" width="700" height="400">
+</details>
+
+<details>
+<summary>
+  파일 구조
+</summary>
+  <img src="https://github.com/user-attachments/assets/37cffc4b-f200-43b4-aec6-9a60e3eeb5cd">
+</details>
+
+[API 정의서](https://github.com/user-attachments/files/16467764/API.pdf)
 <br>
 
 ## ✔️ 시연 영상
