@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 - `화면 이미지`: 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/8ded022c-21a3-4652-8a7c-ab201e9b784b" width=220 height=380 />
-  <img src="https://github.com/user-attachments/assets/33d42db7-a56a-48dc-85e3-88a1132e3bc5" width=220 height=380 />
-  <img src="https://github.com/user-attachments/assets/39deaefa-0bce-4659-a174-1d51d4d5c25c" width=220 height=380 />
+  <img src="https://github.com/user-attachments/assets/8ded022c-21a3-4652-8a7c-ab201e9b784b" width=250 height=420 />
+  <img src="https://github.com/user-attachments/assets/33d42db7-a56a-48dc-85e3-88a1132e3bc5" width=250 height=420 />
+  <img src="https://github.com/user-attachments/assets/39deaefa-0bce-4659-a174-1d51d4d5c25c" width=250 height=420 />
 </p>
 <br>
 
