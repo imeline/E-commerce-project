@@ -23,10 +23,22 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 - `화면 이미지`: 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/8ded022c-21a3-4652-8a7c-ab201e9b784b" width=250 height=440 />
+  <img src="https://github.com/jmlee119/maphant-app/assets/68285285/30e23779-c25f-46fc-9783-87daf671a567" width=250 height=440 />
   <img src="https://github.com/user-attachments/assets/33d42db7-a56a-48dc-85e3-88a1132e3bc5" width=250 height=440 />
-  <img src="https://github.com/user-attachments/assets/39deaefa-0bce-4659-a174-1d51d4d5c25c" width=250 height=440 />
+  <img src="https://github.com/jmlee119/2023Algorithm/assets/68285285/ce3d1ee4-bdc9-4548-af7e-c8d26102bd44" width=250 height=440 />
 </p>
+
+- `주요 기능`: <br>
+1. 소셜 로그인
+2. 로그인, 회원가입 - 문자인증
+3. 배송지 등록 - 카카오 우편주소 API
+4. 상품 조회
+5. 장바구니 담기
+6. 주문하기
+7. 결제하기 - 카카오페이
+8. 최근 본 상품
+9. 카테고리 별 조회
+10. 상품 좋아요
 <br>
 
 ## ✔️ 담당 구현 기능
