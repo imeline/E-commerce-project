@@ -1,5 +1,7 @@
 # 🛒 이커머스 프로젝트 🛒
 
+👉 [팀 GitHub organization 보기](https://github.com/5-tyranno-develops)
+
 ## ✔️ 목차
 - [프로젝트 개요](#%EF%B8%8F-프로젝트-개요)
 - [담당 구현 기능](#%EF%B8%8F-담당-구현-기능)
